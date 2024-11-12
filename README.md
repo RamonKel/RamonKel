@@ -23,7 +23,7 @@ Me chamo Ramon Kelvin, um estudante universitário apaixonado por desenvolviment
 ![Tkinter](https://img.shields.io/badge/-Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Blynk](https://img.shields.io/badge/-Blynk-1FC4D7?style=for-the-badge&logoColor=white)
-
+https://www.arduino.cc/
 
 ## 🌟 Projetos em Destaque
 
@@ -37,4 +37,4 @@ Me chamo Ramon Kelvin, um estudante universitário apaixonado por desenvolviment
 ## 📫 Entre em Contato
 
 - LinkedIn: [Ramon Santos](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
-- Email: [Ramon Kelvin](ramon.kelvin04@gmail.com)
+- Email: [Ramon Kelvin]([ramon.kelvin04@gmail.com](https://mail.google.com/mail/u/0/#inbox))
