@@ -23,7 +23,6 @@ Me chamo Ramon Kelvin, um estudante universitário apaixonado por desenvolviment
 ![Tkinter](https://img.shields.io/badge/-Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Blynk](https://img.shields.io/badge/-Blynk-1FC4D7?style=for-the-badge&logoColor=white)
-https://www.arduino.cc/
 
 ## 🌟 Projetos em Destaque
 
