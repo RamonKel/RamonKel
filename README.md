@@ -10,10 +10,13 @@ Me chamo Ramon Kelvin, um estudante universitário apaixonado por desenvolviment
 
 ## 🔧 Tecnologias & Ferramentas
 
-- **Linguagens**: Python, C, JavaScript
-- **Frameworks**: Flask, Bootstrap
-- **Ferramentas**: Git, Docker, Blynk IoT
-- **Outros**: Big Data, APIs REST, Sensores IoT
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Blynk](https://img.shields.io/badge/-Blynk-1FC4D7?style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🌟 Projetos em Destaque
 
