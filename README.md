@@ -1,12 +1,11 @@
 # Olá! 👋 Bem-vindo ao meu GitHub!
 
-Me chamo Ramon Kelvin, um estudante universitário apaixonado por desenvolvimento de software, Web e automação. Aqui você encontrará alguns dos projetos em que estou trabalhando e contribuindo.
+Me chamo Ramon Kelvin, um estudante universitário apaixonado por desenvolvimento de software full stack e automações com python. Aqui você encontrará alguns dos projetos em que estou trabalhando e contribuindo.
 
 ## 🚀 Sobre Mim
 
 - 🎓 Atualmente estou me desenvolvendo, estudando linguagens de programação.
-- 💻 Desenvolvo projetos com Python, Flask e IoT.
-- 🌱 Aprendendo mais sobre Big Data, Sistemas Web e o uso de sensores com ESP32.
+- 💻 Desenvolvo projetos com Python, Django, Javascript.
 
 ## 🔧 Tecnologias & Ferramentas
 
